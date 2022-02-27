@@ -11,7 +11,7 @@
 public class TripleChar {
 
     public String charCheck(String income) {
-
+        return "";
     }
 
 }
