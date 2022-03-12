@@ -25,7 +25,7 @@ Create a new branch with the name of the exercise. <br>
 Create your code and run the test class. <br> 
 `mvn test -Dtest=<Test Class Name>` <br>
 
-This command will run test related to the class you have working on. 
+This command will run tests related to the class you have working on. 
 If test are successful you can commit your changes.
 
 Push changes of your branch.<br>
